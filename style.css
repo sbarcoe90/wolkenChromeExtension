@@ -1,0 +1,17 @@
+/* Style for the highlighted case number */
+span {
+    background-color: transparent; /* No background */
+    border: none; /* No border */
+    padding: 0; /* No padding */
+    font-weight: inherit; /* Inherit font weight */
+    color: inherit; /* Inherit text color */
+    /* text-decoration: underline;  Optional: underline to indicate it's highlighted */
+}
+
+/* Optional: General body styling */
+body {
+    font-family: inherit; /* Use the same font as the webpage */
+    line-height: inherit; /* Use the same line height as the webpage */
+    margin: inherit; /* Remove default margins */
+    padding: inherit; /* Remove default padding */
+}
